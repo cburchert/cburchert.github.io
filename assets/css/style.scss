@@ -1,0 +1,21 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+img.footer_icon {
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+    height: 1.2em;
+    padding: 0px;
+    padding-right: 5px;
+    margin: 0px;
+    border: 0px;
+    vertical-align: text-bottom;
+}
+
+div.footer_spacer {
+    display: inline-block;
+    width: 20px;
+}

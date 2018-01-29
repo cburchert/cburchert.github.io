@@ -1,0 +1,6 @@
+# Build files
+_site
+
+# Swap files
+*~
+*.swp
